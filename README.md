@@ -2,7 +2,7 @@
 
 macOS에서 slideshare.net에 올릴 PDF 파일을 만들 때 사용하는 프린트 플러그인입니다.
 
-keynote에서 한글 폰트를 사용하여 PDF 파일로 만들어 slideshare.net에 올리면 한글이 안보이는 경우를 해결합니다. 자세한 내용은 https://item4.github.io/2016-10-31/Way-to-Use-Homeland-Fonts-on-SlideShare/ 을 봐주세요.
+한글 폰트를 사용한 keynote를 PDF로 출력하여 slideshare.net에 올리면 한글이 안보이는 경우를 해결합니다. 자세한 내용은 https://item4.github.io/2016-10-31/Way-to-Use-Homeland-Fonts-on-SlideShare/ 을 봐주세요.
 
 # 설치
 
